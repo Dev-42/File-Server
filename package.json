@@ -1,0 +1,24 @@
+{
+  "name": "file-server",
+  "version": "1.0.0",
+  "description": "This project contains a file server made using NodeJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dev-42/File-Server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dev-42/File-Server/issues"
+  },
+  "homepage": "https://github.com/Dev-42/File-Server#readme",
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
